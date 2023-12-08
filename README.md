@@ -3,7 +3,7 @@
 
 Atualmente estudo Desenvolvimento de Sistemas no IFPR
 
-Tenho alguns cursos na área de robótica e cibersegurança...
+Tenho alguns cursos na área de robótica e redes de computadores...
 
 Adoro trabalhar com software, mas hardware é mais minha praia! hehe
 
