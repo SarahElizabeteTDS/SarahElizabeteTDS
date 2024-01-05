@@ -1,14 +1,8 @@
 # Sarah Elizabete!
-## Opa, eu aqui!
 
 Atualmente estudo Desenvolvimento de Sistemas no IFPR
 
-Tenho alguns cursos na área de robótica e redes de computadores...
-
 Adoro trabalhar com software, mas hardware é mais minha praia! hehe
-
-Amo tudo que envolva T.I.
-
 
 ## Ferramentas e Tecnologias que já tenho um conhecimento prévio:
 
