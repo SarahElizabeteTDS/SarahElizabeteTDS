@@ -19,4 +19,29 @@ Adoro trabalhar com software, mas hardware é mais minha praia! hehe
 <a href="https://www.linkedin.com/in/sarahelizabete" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+### 🏆 GitHub Profile Trophy
 
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=SarahElizabeteTDS&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/SarahElizabeteTDS/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
