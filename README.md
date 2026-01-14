@@ -1,7 +1,6 @@
 # Sarah Elizabete  
 
-Estudante de **Desenvolvimento de Sistemas** no IFPR  
-**Bolsista de Iniciação Científica (IC)** em **Data Science e Visão Computacional** no **Itaipu Parquetec**  
+Estudante do último ano em **Desenvolvimento de Sistemas** no IFPR  
 
 ## Ferramentas e Tecnologias  
 
@@ -15,3 +14,5 @@ Estudante de **Desenvolvimento de Sistemas** no IFPR
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah.elizabete.tds2023@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarahelizabete)  
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-2E7D32?style=for-the-badge)](http://lattes.cnpq.br/4493597430522515)
+ 
